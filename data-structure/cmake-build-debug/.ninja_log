@@ -1,9 +1,0 @@
-# ninja log v5
-0	140	6893188598840834	CMakeFiles/data_structure.dir/main.c.obj	27e0732c1714760d
-163	400	6894376807688011	data_structure.exe	63f8fd1128ae92f4
-3	167	6893242606823634	CMakeFiles/data_structure.dir/seqlist/seqlist.c.obj	f11e66d7376d594d
-2	143	6893192045365688	CMakeFiles/data_structure.dir/sequlist/sequlist.c.obj	47258ddce892bcbb
-3	1101	6895235286053342	build.ninja	9a1c1ace411c0c56
-19	1188	6894248831728778	CMakeFiles/data_structure.dir/seqstack/seqstack.c.obj	28514c64d0b18135
-19	1369	6894366572330124	CMakeFiles/data_structure.dir/seqqueue/seqqueue.c.obj	700f41032026ae3
-3	162	6894376805327998	CMakeFiles/data_structure.dir/slinklist/slinklist.c.obj	f211bab402923a
